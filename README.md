@@ -1,0 +1,39 @@
+# Personal_Projects
+
+1) Live Vehicle License Plate Detection and Tracking
+-> Computer Vision(OpenCV), Deep Learning - YOLO model and Darknet, Pytesseract(Optical character recognition-OCR)
+
+2) Live Face Emotions Detector
+-> Computer Vision(OpenCV), Deep Learning
+
+3) Live Text Detection
+-> Pytesseract(Optical character recognition-OCR),  Computer Vision(OpenCV)
+
+4) Online Live Face Mask Detector
+-> Computer Vision(OpenCV), Deep Learning, Firebase, Flask
+
+5) Live Automated Stocks Transactions(Algorithmic trading)
+-> Data Science, Machine Learning
+
+6) Shakespearean Text Predction
+-> Natural language processing(NLP), Deep Learning - Long short-term memory(LSTM's)
+
+7) Online Covid-19 X-Ray Detector
+-> Deep Learning - Transfer Learning - Xception, Flask
+
+8) Automatic Question and Answer Writer
+-> Natural language processing(NLP)
+
+9) Apple Detection, Size and Distance Calculation
+-> Computer Vision(OpenCV), Deep Learning - YOLO model
+
+10) Online Cat vs Dog Image Classifier
+-> Computer Vision(OpenCV), Deep Learning, Flask
+
+11) Live Burglar Detection
+-> Computer Vision(OpenCV), Deep Learning - Single Shot MultiBox Detector(SSD's) 
+
+12) Online Bank Loan Prediction Model
+-> Data Science, Machine Learning, Flask, Heroku
+
+
