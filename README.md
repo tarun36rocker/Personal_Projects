@@ -3,8 +3,8 @@
 1) Live Vehicle License Plate Detection and Tracking
 -> Computer Vision(OpenCV), Deep Learning - YOLO model and Darknet, Pytesseract(Optical character recognition-OCR)
 
-2) Live Face Emotions Detector
--> Computer Vision(OpenCV), Deep Learning
+2) Face Generator
+-> Generative Adversarial Network (GAN), nVidia StyleGAN2, Deep Learning
 
 3) Live Text Detection
 -> Pytesseract(Optical character recognition-OCR),  Computer Vision(OpenCV)
@@ -36,4 +36,5 @@
 12) Online Bank Loan Prediction Model
 -> Data Science, Machine Learning, Flask, Heroku
 
-
+13) Live Face Emotions Detector
+-> Computer Vision(OpenCV), Deep Learning
