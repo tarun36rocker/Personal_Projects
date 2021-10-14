@@ -38,3 +38,6 @@
 
 13) Live Face Emotions Detector
 -> Computer Vision(OpenCV), Deep Learning
+
+14) Zoom Background Removal ( Virtual Background )
+-> Computer Vision(OpenCV), CVzone
