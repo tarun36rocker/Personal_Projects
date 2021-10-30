@@ -41,3 +41,6 @@
 
 14) Zoom Background Removal ( Virtual Background )
 -> Computer Vision(OpenCV), CVzone
+
+15) Hard-Hat detection with hat color
+-> Computer Vision(OpenCV), YoloV5
