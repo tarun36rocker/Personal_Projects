@@ -39,8 +39,11 @@
 13) Live Face Emotions Detector
 -> Computer Vision(OpenCV), Deep Learning
 
-14) Zoom Background Removal ( Virtual Background )
+14) Live Zoom Background Removal ( Virtual Background )
 -> Computer Vision(OpenCV), CVzone
 
 15) Hard-Hat detection with hat color
 -> Computer Vision(OpenCV), YoloV5(pytorch)
+
+16) Live Rock-Paper-Scissors vs the Computer
+->  Computer Vision(OpenCV), Deep Learning
