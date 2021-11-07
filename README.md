@@ -46,4 +46,7 @@
 -> Computer Vision(OpenCV), YoloV5(pytorch)
 
 16) Live Rock-Paper-Scissors vs the Computer
-->  Computer Vision(OpenCV), Deep Learning
+-> Computer Vision(OpenCV), Deep Learning
+
+17) Live Cartoonizing of Person and Surroundings
+-> Computer Vision(OpenCV)
