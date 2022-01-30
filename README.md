@@ -1,5 +1,3 @@
-# Personal_Projects
-
 1) Live Vehicle License Plate Detection and Tracking
 -> Computer Vision(OpenCV), Deep Learning - YOLO model and Darknet, Pytesseract(Optical character recognition-OCR)
 
@@ -50,3 +48,6 @@
 
 17) Live Cartoonizing of Person and Surroundings
 -> Computer Vision(OpenCV)
+
+18) Live Knee-Bend Check
+-> Mediapipe, Computer Vision(OpenCV)
