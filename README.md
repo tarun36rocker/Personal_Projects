@@ -51,3 +51,6 @@
 
 18) Live Knee-Bend Check
 -> Mediapipe, Computer Vision(OpenCV)
+
+19) Decision Tree Classifier/Predictor on Titanic Dataset
+-> Machine Learning
