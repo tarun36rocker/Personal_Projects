@@ -54,3 +54,6 @@
 
 19) Decision Tree Classifier/Predictor on Titanic Dataset
 -> Machine Learning
+
+20) Person Detection and Tracking of a video stream/live webcam
+-> Computer Vision(OpenCV), Deep Learning - YOLO model and Darknet
