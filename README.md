@@ -57,3 +57,6 @@
 
 20) Person Detection and Tracking of a video stream/live webcam
 -> Computer Vision(OpenCV), Deep Learning - YOLO model and Darknet
+
+21) Student Chat Moderator
+-> Natural language processing(NLP), Deep Learning - Long short-term memory(LSTM's)
