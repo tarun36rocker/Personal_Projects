@@ -1,4 +1,6 @@
+--------------------
 Certifications
+
 Google Tensorflow Developer Cetified
 October 20, 2021 - October 20, 2024
 --------------------
@@ -71,8 +73,9 @@ Personal Projects
 22) Video Based Centre Color Detection
 -> Computer Vision(OpenCV)
 
+--------------------------------
+
 Internships
------------------
 
 Machine Learning and Data Science
 Internship
