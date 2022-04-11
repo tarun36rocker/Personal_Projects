@@ -92,8 +92,9 @@ Responsibility: Apple Project Team Lead
 Tasks: Real-time Object Detection, Pre-Processing, Classification and Tracking using Computer Vision and Deep
 Learning
 
+----------------------------------
+
 Research Papers Published
--------------------------
 
 1 ) Title : Smart Retailing
 Book name : Big Data Analytics 
