@@ -1,3 +1,10 @@
+Certifications
+Google Tensorflow Developer Cetified
+October 20, 2021 - October 20, 2024
+--------------------
+Personal Projects
+
+
 1) Live Vehicle License Plate Detection and Tracking
 -> Computer Vision(OpenCV), Deep Learning - YOLO model and Darknet, Pytesseract(Optical character recognition-OCR)
 
@@ -63,3 +70,28 @@
 
 22) Video Based Centre Color Detection
 -> Computer Vision(OpenCV)
+
+Internships
+-----------------
+
+Machine Learning and Data Science
+Internship
+DUIT
+09/2020 - 03/2021, DUIT Technologies is a Singapore based startup that creates Electronic Business Cards for Corporates, Businesses and Startups. Machine Learning and Data Science Role
+Tasks: To Analyze and Create Live and Profitable
+Transactions for various stocks in the Stock Market by
+performing Algorithmic Trading
+
+Computer Vision Internship
+Artenal
+03/2021 - 09/2021, Artenal envisions a Green Future through pioneering A.I. and Robotics Technology with Agricultural Applications.
+Responsibility: Apple Project Team Lead
+Tasks: Real-time Object Detection, Pre-Processing, Classification and Tracking using Computer Vision and Deep
+Learning
+
+Research Papers Published
+-------------------------
+
+1 ) Title : Smart Retailing
+Book name : Big Data Analytics 
+Publishers : Taylor and Francis Group - Kiran Chaudhary and Mansaf Alam - Auerback Book
