@@ -60,3 +60,6 @@
 
 21) Student Chat Moderator
 -> Natural language processing(NLP), Deep Learning - Long short-term memory(LSTM's)
+
+22) Video Based Centre Color Detection
+-> Computer Vision(OpenCV)
